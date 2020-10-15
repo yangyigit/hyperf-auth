@@ -100,9 +100,9 @@ CREATE TABLE `tp_auth_group_access` (
 
 使用方法和thinkphp3.2带的Auth类完全一致！
 
-本类库的命名空间为： namespace liliuwei\think;
+本类库的命名空间为： namespace yangyi\hyperf;
 
-或者使用$auth = new \liliuwei\think\Auth();
+或者使用$auth = new \yangyi\hyperf\Auth();
 
 ~~~php
 
