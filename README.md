@@ -4,7 +4,7 @@
 ## 安装
 
 ~~~
-composer require yangyigit/hyperf-auth=1.0.*
+composer require yangyi/hyperf-auth
 ~~~
 
 ## 配置
