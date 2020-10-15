@@ -1,0 +1,20 @@
+{
+    "name": "yangyi/hyperf-auth",
+    "description": "适用于hyperf框架的auth权限管理扩展",
+    "keywords": ["hyperf-auth", "hyperf"],
+    "authors": [
+        {
+            "name": "Yang Yi",
+            "email": "1187161570@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yangyi\\hyperf\\": "src/"
+        }
+    }
+}
