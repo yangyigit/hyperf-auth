@@ -8,6 +8,11 @@
             "email": "1187161570@qq.com"
         }
     ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.0"
